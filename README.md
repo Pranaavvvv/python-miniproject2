@@ -2,7 +2,7 @@
   
 # 🛒 E-Commerce Recommendation System
 
-<img src="https://via.placeholder.com/1200x300" alt="E-Commerce Recommendation System Banner" width="100%">
+
 
 <div align="center">
   <img src="https://img.shields.io/badge/Python-3.10-blue?style=for-the-badge&logo=python" />
@@ -28,7 +28,7 @@
   <h2>🚀 Intelligent Shopping Recommendations Powered by AI</h2>
   <p><i>Transform your e-commerce experience with personalized product recommendations</i></p>
   <br/>
-  <img src="https://via.placeholder.com/800x450" alt="Product Recommendation Showcase" width="80%">
+
 </div>
 
 ---
@@ -39,19 +39,16 @@
 <table>
   <tr>
     <td width="33%" align="center">
-      <img src="https://via.placeholder.com/150" width="100px" alt="Content-Based"/>
       <br/>
       <h3>Content-Based</h3>
       <p>Recommendations based on product attributes using TF-IDF & cosine similarity</p>
     </td>
     <td width="33%" align="center">
-      <img src="https://via.placeholder.com/150" width="100px" alt="Collaborative"/>
       <br/>
       <h3>Collaborative</h3>
       <p>User-based & item-based filtering with matrix factorization</p>
     </td>
     <td width="33%" align="center">
-      <img src="https://via.placeholder.com/150" width="100px" alt="Hybrid"/>
       <br/>
       <h3>Hybrid Approach</h3>
       <p>Combined techniques for optimal performance</p>
@@ -61,32 +58,6 @@
 </div>
 
 ---
-
-## 🎮 Interactive Demo
-
-<div align="center">
-  <img src="https://via.placeholder.com/800x500" alt="Interactive Demo" width="80%">
-  <p><i>Our interactive web interface allows you to explore recommendations in real-time</i></p>
-</div>
-
-<div align="center">
-  <a href="https://your-demo-link.com" target="_blank">
-    <img src="https://img.shields.io/badge/Try_Live_Demo-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Try Live Demo">
-  </a>
-</div>
-
----
-
-## 🏗️ System Architecture
-
-<div align="center">
-  <img src="https://via.placeholder.com/900x500" alt="System Architecture Diagram" width="90%">
-</div>
-
-### Data Flow Animation
-<div align="center">
-  <p><i>Insert GIF of data flow here. In GitHub, you can upload a GIF showing the flow of data through your system.</i></p>
-</div>
 
 ### Component Breakdown
 
@@ -118,13 +89,6 @@
 </div>
 
 ---
-
-## 📈 Performance Insights
-
-<div align="center">
-  <img src="https://via.placeholder.com/900x500" alt="Performance Visualization" width="90%">
-  <p><i>Comparative analysis of recommendation algorithms</i></p>
-</div>
 
 ### Algorithms Comparison
 
@@ -204,21 +168,6 @@ docker-compose up
 
 ---
 
-## 📱 Mobile Experience
-
-<div align="center">
-  <table>
-    <tr>
-      <td><img src="https://via.placeholder.com/250x500" alt="Mobile Screenshot 1" width="200px"></td>
-      <td><img src="https://via.placeholder.com/250x500" alt="Mobile Screenshot 2" width="200px"></td>
-      <td><img src="https://via.placeholder.com/250x500" alt="Mobile Screenshot 3" width="200px"></td>
-    </tr>
-  </table>
-  <p><i>Responsive design ensures recommendations look great on any device</i></p>
-</div>
-
----
-
 ## 🔍 Code Insights
 
 <div align="center">
@@ -265,15 +214,9 @@ class HybridRecommender:
 ## 🌈 UI/UX Experience
 
 <div align="center">
-  <img src="https://via.placeholder.com/800x500" alt="UI/UX Experience" width="80%">
   <p><i>Intuitive design makes discovering products a delightful experience</i></p>
 </div>
 
-### User Flow Diagram
-
-<div align="center">
-  <img src="https://via.placeholder.com/900x300" alt="User Flow Diagram" width="90%">
-</div>
 
 ---
 
@@ -283,22 +226,18 @@ class HybridRecommender:
 <table>
   <tr>
     <td width="25%" align="center">
-      <img src="https://via.placeholder.com/150" width="80px" alt="Deep Neural Network"/>
       <h3>DNN Integration</h3>
       <p>Add deep learning capabilities</p>
     </td>
     <td width="25%" align="center">
-      <img src="https://via.placeholder.com/150" width="80px" alt="Real-time Processing"/>
       <h3>Real-time Updates</h3>
       <p>Immediate recommendation updates</p>
     </td>
     <td width="25%" align="center">
-      <img src="https://via.placeholder.com/150" width="80px" alt="A/B Testing"/>
       <h3>A/B Testing Framework</h3>
       <p>Automated algorithm comparison</p>
     </td>
     <td width="25%" align="center">
-      <img src="https://via.placeholder.com/150" width="80px" alt="Multi-Platform"/>
       <h3>Multi-Platform</h3>
       <p>Mobile app & web integrations</p>
     </td>
@@ -311,38 +250,60 @@ class HybridRecommender:
 ## 👥 Meet the Team
 
 <div align="center">
-<table>
+  
+```
+╔══════════════════════════════════════════════════════════╗
+║                                                          ║
+║               THE MINDS BEHIND THE PROJECT               ║
+║                                                          ║
+╚══════════════════════════════════════════════════════════╝
+```
+
+<table border="0">
   <tr>
-    <td align="center">
-      <img src="https://via.placeholder.com/150" width="100px" alt="Team Member 1"/>
-      <br/>
-      <b>Jane Doe</b>
-      <br/>
-      <i>Data Scientist</i>
+    <td align="center" width="25%">
+      <div>
+        <h3>🧠</h3>
+        <div>▄▄▄▄▄▄▄▄▄▄▄▄</div>
+        <h2>Pranav Dharwadkar</h2>
+        <div>▀▀▀▀▀▀▀▀▀▀▀▀</div>
+      </div>
     </td>
-    <td align="center">
-      <img src="https://via.placeholder.com/150" width="100px" alt="Team Member 2"/>
-      <br/>
-      <b>John Smith</b>
-      <br/>
-      <i>ML Engineer</i>
+    <td align="center" width="25%">
+      <div>
+        <h3>💡</h3>
+        <div>▄▄▄▄▄▄▄▄▄▄▄▄</div>
+        <h2>Nandini Nema</h2>
+        <div>▀▀▀▀▀▀▀▀▀▀▀▀</div>
+      </div>
     </td>
-    <td align="center">
-      <img src="https://via.placeholder.com/150" width="100px" alt="Team Member 3"/>
-      <br/>
-      <b>Alice Johnson</b>
-      <br/>
-      <i>UI/UX Designer</i>
+    <td align="center" width="25%">
+      <div>
+        <h3>🔧</h3>
+        <div>▄▄▄▄▄▄▄▄▄▄▄▄</div>
+        <h2>Mihir Patil</h2>
+        <div>▀▀▀▀▀▀▀▀▀▀▀▀</div>
+      </div>
     </td>
-    <td align="center">
-      <img src="https://via.placeholder.com/150" width="100px" alt="Team Member 4"/>
-      <br/>
-      <b>Bob Williams</b>
-      <br/>
-      <i>Backend Developer</i>
+    <td align="center" width="25%">
+      <div>
+        <h3>🎨</h3>
+        <div>▄▄▄▄▄▄▄▄▄▄▄▄</div>
+        <h2>Omkar Dalvi</h2>
+        <div>▀▀▀▀▀▀▀▀▀▀▀▀</div>
+      </div>
     </td>
   </tr>
 </table>
+
+```
+┌─────────────────────────────────────────────────────────┐
+│                                                         │
+│  Combining creativity, technical expertise, and vision  │
+│                                                         │
+└─────────────────────────────────────────────────────────┘
+```
+
 </div>
 
 ---
@@ -411,9 +372,6 @@ python api.py
 
 ## 🔧 Contributing
 
-<div align="center">
-  <img src="https://via.placeholder.com/800x300" alt="Contributing Workflow" width="80%">
-</div>
 
 <div align="center">
   <a href="CONTRIBUTING.md">
@@ -440,7 +398,7 @@ python api.py
   
   <p>
     <br/>
-    <i>Made with ❤️ by Your Amazing Team</i>
+    <i>Made with ❤️ by My Amazing Team</i>
     <br/>
     <img src="https://img.shields.io/badge/License-MIT-yellow?style=flat-square" alt="License: MIT">
   </p>
