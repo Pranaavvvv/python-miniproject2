@@ -33,7 +33,7 @@ With the rapid expansion of online retail platforms, users are often overwhelmed
 - ✅ Matrix factorization using **SVD (Singular Value Decomposition)**
 - ✅ Clean, modular, and well-documented codebase
 - ✅ Comprehensive EDA with insightful visualizations
-- ✅ Optional UI using **Streamlit** for interactive usage
+- ✅ Optional UI using Streamlit for interactive usage
 
 ---
 
