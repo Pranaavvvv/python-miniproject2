@@ -35,24 +35,6 @@ With the rapid expansion of online retail platforms, users are often overwhelmed
 - ✅ Comprehensive EDA with insightful visualizations
 - ✅ Optional UI using Streamlit for interactive usage
 
----
-
-## 🔬 Methodology
-
-```mermaid
-graph TD
-A[Data Collection] --> B[Data Cleaning & Preprocessing]
-B --> C[EDA & Insights]
-C --> D[Model Building]
-D --> E1[Content-Based Filtering]
-D --> E2[Collaborative Filtering]
-E1 --> F[Top-N Recommendations]
-E2 --> F
-F --> G[Evaluation & Metrics]
-G --> H[Streamlit Frontend (Optional)]
-```
-
----
 
 ## 📊 Evaluation Metrics
 
@@ -137,13 +119,3 @@ This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) f
 > Built with dedication and teamwork as part of our academic mini project to explore real-world recommendation systems.
 ```
 
----
-
-✅ You can now **copy and paste this entire block** into your `README.md`.
-
-Let me know if you'd like help with:
-- The `requirements.txt` file
-- Sample Python code structure for `main.py`, `app.py`, etc.
-- Hosting this project or deploying it with Streamlit
-
-Happy building! 🚀
