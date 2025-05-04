@@ -25,7 +25,9 @@ export default function LoyaltyPage() {
     <div className="container mx-auto py-8 px-4">
       <div className="flex flex-col md:flex-row items-start md:items-center justify-between gap-4 mb-8">
         <div>
-          <h1 className="text-3xl font-bold gradient-text mb-2">Loyalty Program</h1>
+          <h1 className="text-3xl font-bold gradient-text mb-2">
+            <br/>
+            <br/>Loyalty Program</h1>
           <p className="text-gray-400">Earn points, unlock rewards, and enjoy exclusive benefits</p>
         </div>
         <div className="flex items-center gap-4">

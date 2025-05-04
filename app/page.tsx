@@ -72,10 +72,6 @@ export default function Home() {
           <Badge variant="outline" className="mb-2 bg-purple-900/20 text-purple-300">
             Shop By Category
           </Badge>
-          <h2 className="mb-3 text-4xl font-bold tracking-tight text-white">Explore Our Collections</h2>
-          <p className="mx-auto max-w-2xl text-gray-400">
-            Browse through our carefully curated categories to find exactly what you're looking for.
-          </p>
         </motion.div>
 
         <CategoryShowcase />
